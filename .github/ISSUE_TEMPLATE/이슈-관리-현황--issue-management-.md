@@ -2,7 +2,7 @@
 name: 이슈 관리 현황 (Issue Management)
 about: 이슈 관리자를 위한 현황 파악 템플릿
 title: ''
-labels: issue-management
+labels: issue-management, retrospective
 assignees: ''
 
 ---
