@@ -1,13 +1,13 @@
 ---
-name: 이슈 관리 현황 (Issue Management)
-about: 이슈 관리자를 위한 현황 파악 템플릿
+name: 작업 회고 (issu)
+about: 완료된 작업에 대한 회고를 위한 템플릿
 title: ''
-labels: issue-management
+labels: issu
 assignees: ''
 
 ---
 
-## 이슈 관리 현황
+##  이슈 관리 현황
 
 ###  관리 대상
 - **프로젝트**: 
