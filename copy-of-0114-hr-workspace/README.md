@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1oY4fSqruQXlyyg0S91H3dx
 3. Run the app:
    `npm run dev`
 4. 저에요12321321321312312
+5. 나에요
